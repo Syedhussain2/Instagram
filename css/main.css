@@ -1,0 +1,19 @@
+.Photo {
+  float:left;
+  padding-top: 50px;
+}
+.bar {
+  clear:both;
+  margin-left:200px;
+}
+
+}
+.para1 {
+    font-weight: 600;
+    line-height: 20px;
+    font-size: 17px;
+    margin: 0 40px 10px;
+}
+.Facebook {
+  padding-left: 150px;
+}
